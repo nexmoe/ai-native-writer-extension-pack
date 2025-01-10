@@ -1,4 +1,3 @@
-
 [English Version](README.md)
 
 ---
@@ -10,7 +9,7 @@
 ## 功能
 
 - 增强的 Markdown 编辑体验：此扩展包捆绑了多个工具，可显著改善您的 Markdown 写作工作流程，提供诸如增强的导航、格式设置和预览等功能。
-- AI 辅助写作：利用包含的 Roo Cline 扩展的强大功能，直接在 Markdown 文件中获得智能建议和写作方面的帮助。
+- AI 辅助写作和编码：利用包含的 Roo Cline 扩展的强大功能，直接在 Markdown 文件中获得智能建议和编码方面的帮助。
 - 实时协作：使用 GitDoc 扩展与他人实时协作处理 Markdown 文档，从而更轻松地协同创建内容。
 - 自动语法和样式检查：使用集成的 AutoCorrect 和 Markdownlint 扩展，确保您的 Markdown 文档没有错误并符合一致的样式指南。
 - 图片管理和嵌入：允许您粘贴、重命名和高效组织图像的扩展，轻松管理和嵌入 Markdown 文档中的图像。
@@ -18,16 +17,17 @@
 
 ## 包含的扩展
 
-- **Markdown All in One** - 提供了编写 Markdown 所需的一切基本功能，例如键盘快捷键、目录生成、列表编辑等。
-- **Markdown Preview Enhanced** - 提供 Markdown 文档的实时、可自定义的预览，具有演示模式、代码块执行和导出为各种格式等功能。
-- **Markdown Image** - 简化了 Markdown 文档中图像的管理，允许您轻松插入、重命名和删除图像。
-- **Markdown Paste Image** - 使您能够将剪贴板中的图像直接粘贴到 Markdown 文件中，并自动将其保存到您的项目中。
-- **Markdownlint** - 通过可自定义的 lint 规则，帮助您保持一致的 Markdown 风格并识别潜在错误。
-- **AutoCorrect** - 在您在 Markdown 文档中键入时自动纠正拼写和语法错误。
-- **Paste URL** - 可以轻松地将剪贴板中的 URL 粘贴为格式化的 Markdown 链接。
-- **Roo Cline** - 一个 AI 驱动的助手，可提供智能写作建议。
-- **WakaTime** - 自动跟踪您花费在写作上的时间，并提供有关您的写作活动的见解。
-- **GitDoc** - 促进与他人实时协作编辑 Markdown 文档。
+- **[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)** - 提供了编写 Markdown 所需的一切基本功能，例如键盘快捷键、目录生成、列表编辑等。
+- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced 是一个扩展，为您提供了许多有用的功能，如自动滚动同步、数学排版、mermaid、PlantUML、pandoc、PDF 导出、代码块、演示文稿编写等。
+- **[Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)** - 一个方便在 Markdown 中插入图片的扩展，支持将图片存储在本地或第三方 CDN 服务中。
+- **[Markdown Paste Image](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)** - 使您能够将剪贴板中的图像直接粘贴到 Markdown 文件中，并自动将其保存到您的项目中。
+- **[Markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)** - 帮助您保持一致的 Markdown 风格并识别潜在错误。
+- **[AutoCorrect](https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect)** - 在您在 Markdown 文档中键入时自动纠正拼写和语法错误。
+- **[Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)** - 可以轻松地将剪贴板中的 URL 粘贴为格式化的 Markdown 链接。
+- **[Roo Cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** - 一个 AI 驱动的助手，可帮助完成编码任务并提供智能建议。
+- **[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)** - 自动跟踪您花费在编码上的时间，并提供有关您的开发活动的见解。
+- **[GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)** - 促进与他人实时协作编辑 Markdown 文档。
+- **[Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)** - 帮助检测代码中不可见和令人困惑的字符。
 
 ## 安装
 
