@@ -10,7 +10,7 @@ A curated collection of VS Code extensions to enhance markdown writing and AI-as
 ## Features
 
 - Enhanced markdown editing experience: This extension pack bundles several tools that significantly improve your markdown writing workflow, providing features like enhanced navigation, formatting, and previewing.
-- AI-assisted writing and coding: Leverage the power of AI with the included Roo Cline extension to get intelligent suggestions and assistance with your writing and coding tasks directly within your markdown files.
+- AI-assisted writing: Leverage the power of AI with the included Roo Cline extension to get intelligent suggestions and assistance with your writing tasks directly within your markdown files.
 - Real-time collaboration: Collaborate with others on your markdown documents in real-time using the GitDoc extension, making it easier to work together on content creation.
 - Automatic grammar and style checking: Ensure your markdown documents are free of errors and adhere to consistent style guidelines with the integrated AutoCorrect and Markdownlint extensions.
 - Image management and embedding: Easily manage and embed images in your markdown documents with extensions that allow you to paste, rename, and organize your images efficiently.
@@ -25,7 +25,7 @@ A curated collection of VS Code extensions to enhance markdown writing and AI-as
 - **[Markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)** - Helps you maintain consistent Markdown style and identify potential errors.
 - **[AutoCorrect](https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect)** - Automatically corrects spelling and grammar errors as you type in your Markdown documents.
 - **[Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)** - Makes it easy to paste URLs from your clipboard as formatted Markdown links.
-- **[Roo Cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** - An AI-powered assistant that helps with coding tasks and provides intelligent suggestions.
+- **[Roo Cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** - An AI-powered assistant that provides intelligent writing suggestions.
 - **[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)** - Automatically tracks your time spent coding and provides insights into your development activity.
 - **[GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)** - Facilitates real-time collaborative editing of Markdown documents with others.
 - **[Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)** - Helps detect invisible and confusing characters in your code.
