@@ -1,0 +1,25 @@
+{
+  "name": "ai-native-writer-extension-pack",
+  "displayName": "AI Native Writer Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "davidanson.vscode-markdownlint", 
+    "hancel.markdown-image", 
+    "shd101wyy.markdown-preview-enhanced", 
+    "telesoho.vscode-markdown-paste-image", 
+    "yzhang.markdown-all-in-one",
+    "huacnlee.autocorrect",
+    "kukushi.pasteurl",
+    "RooVeterinaryInc.roo-cline",
+    "WakaTime.vscode-wakatime",
+    "vsls-contrib.gitdoc",
+    "nhoizey.gremlins"
+  ]
+}
