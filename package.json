@@ -3,8 +3,9 @@
   "displayName": "AI Native Writer Extension Pack",
   "description": "A curated collection of VS Code extensions to enhance markdown writing and AI-assisted content creation.",
   "version": "0.0.1",
+  "publisher": "nexmoe",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.84.0"
   },
   "categories": [
     "Extension Packs"
