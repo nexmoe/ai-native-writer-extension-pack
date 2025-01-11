@@ -5,7 +5,7 @@
 
 # AI Native Writer Extension Pack
 
-A curated collection of VS Code extensions to enhance markdown writing and AI-assisted content creation.
+A curated collection of VS Code extensions to streamline markdown writing and AI-assisted content creation, offering enhanced editing, AI suggestions, real-time collaboration, and more.
 
 ## Features
 
@@ -18,17 +18,35 @@ A curated collection of VS Code extensions to enhance markdown writing and AI-as
 
 ## Included Extensions
 
+### Markdown Editing Tools
+
 - **[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)** - Provides all the essential features for writing Markdown, such as keyboard shortcuts, table of contents generation, list editing, and more.
-- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. 
-- **[Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)** - An extension for conveniently inserting pictures in Markdown, which supports storing pictures in local or third-party CDN service.
-- **[Markdown Paste Image](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)** - Enables you to paste images directly from your clipboard into your Markdown files, automatically saving them to your project.
+- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
+- **[Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)** - Makes it easy to paste URLs from your clipboard as formatted Markdown links.
+
+### AI-Assisted Tools
+
+- **[Roo Cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** - An AI-powered assistant that provides intelligent writing suggestions.
+- **[Alibaba-Cloud.tongyi-lingma](https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma)**: An intelligent writing assistant developed by Alibaba Cloud's technical team, supporting document generation and modification suggestions in multiple formats to help improve writing efficiency.
+
+### Collaboration Tools
+
+- **[GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)** - Facilitates real-time collaborative editing of Markdown documents with others.
+
+### Checking Tools
+
 - **[Markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)** - Helps you maintain consistent Markdown style and identify potential errors.
 - **[AutoCorrect](https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect)** - Automatically corrects spelling and grammar errors as you type in your Markdown documents.
-- **[Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)** - Makes it easy to paste URLs from your clipboard as formatted Markdown links.
-- **[Roo Cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** - An AI-powered assistant that provides intelligent writing suggestions.
-- **[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)** - Automatically tracks your time spent coding and provides insights into your development activity.
-- **[GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)** - Facilitates real-time collaborative editing of Markdown documents with others.
 - **[Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)** - Helps detect invisible and confusing characters in your code.
+
+### Image Management Tools
+
+- **[Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)** - An extension for conveniently inserting pictures in Markdown, which supports storing pictures in local or third-party CDN service.
+- **[Markdown Paste Image](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)** - Enables you to paste images directly from your clipboard into your Markdown files, automatically saving them to your project.
+
+### Time Tracking and Productivity Tools
+
+- **[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)** - Automatically tracks your time spent coding and provides insights into your development activity.
 
 ## Installation
 
@@ -37,7 +55,6 @@ A curated collection of VS Code extensions to enhance markdown writing and AI-as
 3. Search for "AI Native Writer Extension Pack"
 4. Click Install
 
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or pull request on GitHub.
@@ -45,4 +62,3 @@ Contributions are welcome! Please open an issue or pull request on GitHub.
 ## License
 
 MIT
-
